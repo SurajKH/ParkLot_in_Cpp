@@ -1,7 +1,7 @@
 # ParkLot_in_Cpp
 ParkLot_in_Cpp
 
-1.ParkLot is A Vehicle Parking Tracking Application where we tend to track the Vehicle parked with Live Time Tracking in C++.
+1.ParkLot is A Vehicle Parking Application where we tend to track the Vehicle parked with Live Time Tracking in C++.
 
 2.Consideration of Bill Generation Mainly Depends on Two Aspects (PromoCode,Type of Vehicle,Parking Hours).
 
